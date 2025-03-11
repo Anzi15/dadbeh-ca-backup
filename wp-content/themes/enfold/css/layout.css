@@ -1652,7 +1652,7 @@ div.avia-popup .mfp-s-error .mfp-preloader {background: transparent; width:100%;
 
 
 
-/*site preloader: http://projects.lukehaas.me/css-loaders/ */
+/*site preloader: https://projects.lukehaas.me/css-loaders/ */
 .av-siteloader-wrap{
 position: fixed;
 top:0;
@@ -2153,7 +2153,7 @@ margin-top:-55px;
 padding:15px;
 text-decoration: none;
 z-index: 501; /*fixes: https://github.com/AviaThemes/wp-themes/issues/807 */
--webkit-transform: translate3d(0,0,0); /* fixes: http://www.kriesi.at/support/topic/next-previous-blog-post-bug/ */
+-webkit-transform: translate3d(0,0,0); /* fixes: https://www.kriesi.at/support/topic/next-previous-blog-post-bug/ */
 }
 
 #top .avia-post-nav:hover{
