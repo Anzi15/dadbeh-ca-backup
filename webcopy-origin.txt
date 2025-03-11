@@ -1,0 +1,1660 @@
+Uri: https://maps.gstatic.com/mapfiles/api-3/images/cb_scout2_hdpi.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\mapfiles\api-3\images\cb_scout2_hdpi.png
+Content Type: image/png
+
+Uri: https://maps.gstatic.com/mapfiles/api-3/images/google_white2_hdpi.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\mapfiles\api-3\images\google_white2_hdpi.png
+Content Type: image/png
+
+Uri: https://maps.gstatic.com/mapfiles/api-3/images/mapcnt3.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\mapfiles\api-3\images\mapcnt3.png
+Content Type: image/png
+
+Uri: https://maps.gstatic.com/mapfiles/api-3/images/mapcnt3_hdpi.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\mapfiles\api-3\images\mapcnt3_hdpi.png
+Content Type: image/png
+
+Uri: https://maps.gstatic.com/mapfiles/mv/imgs8.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\mapfiles\mv\imgs8.png
+Content Type: image/png
+
+Uri: https://maps.gstatic.com/mapfiles/openhand_8_8.cur
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\mapfiles\openhand_8_8.cur
+Content Type: image/bmp
+
+Uri: https://mts0.googleapis.com/vt?lyrs=m@227000000&src=apiv3&hl=en-US&x=5178&s=&y=11212&z=15&s=Ga&scale=2&style=47,37|smartmaps
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vt-4
+Content Type: image/png
+
+Uri: https://mts0.googleapis.com/vt?lyrs=m@227013822&src=apiv3&hl=en-US&x=5176&s=&y=11215&z=15&s=Galileo&scale=2&style=47,37|smartmaps
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vt-9
+Content Type: image/png
+
+Uri: https://mts0.googleapis.com/vt?lyrs=m@227083726&src=apiv3&hl=en-US&x=5176&s=&y=11212&z=15&s=Gali&scale=2&style=47,37|smartmaps
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vt-11
+Content Type: image/png
+
+Uri: https://mts0.googleapis.com/vt?lyrs=m@227114025&src=apiv3&hl=en-US&x=5178&s=&y=11214&z=15&s=Gali&scale=2&style=47,37|smartmaps
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vt-7
+Content Type: image/png
+
+Uri: https://mts0.googleapis.com/vt?lyrs=m@227114025&src=apiv3&hl=en-US&x=5178&s=&y=11215&z=15&s=Galil&scale=2&style=47,37|smartmaps
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vt-10
+Content Type: image/png
+
+Uri: https://mts0.googleapis.com/vt?lyrs=m@227144621&src=apiv3&hl=en-US&x=5176&s=&y=11214&z=15&s=Galile&scale=2&style=47,37|smartmaps
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vt-5
+Content Type: image/png
+
+Uri: https://mts0.googleapis.com/vt?lyrs=m@227168415&src=apiv3&hl=en-US&x=5176&s=&y=11213&z=15&s=Galil&scale=2&style=47,37|smartmaps
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vt-6
+Content Type: image/png
+
+Uri: https://mts0.googleapis.com/vt?lyrs=m@227169557&src=apiv3&hl=en-US&x=5178&s=&y=11213&z=15&s=Gal&scale=2&style=47,37|smartmaps
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vt-8
+Content Type: image/png
+
+Uri: https://mts1.googleapis.com/vt?lyrs=m@227013822&src=apiv3&hl=en-US&x=5177&s=&y=11212&z=15&s=Galileo&scale=2&style=47,37|smartmaps
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vt-1
+Content Type: image/png
+
+Uri: https://mts1.googleapis.com/vt?lyrs=m@227013822&src=apiv3&hl=en-US&x=5177&s=&y=11215&z=15&s=Ga&scale=2&style=47,37|smartmaps
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vt-3
+Content Type: image/png
+
+Uri: https://mts1.googleapis.com/vt?lyrs=m@227138037&src=apiv3&hl=en-US&x=5177&s=&y=11214&z=15&s=G&scale=2&style=47,37|smartmaps
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vt-2
+Content Type: image/png
+
+Uri: https://mts1.googleapis.com/vt?lyrs=m@227169557&src=apiv3&hl=en-US&x=5177&s=&y=11213&z=15&s=&scale=2&style=47,37|smartmaps
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vt
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\index-2.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/سیستم-خرید-و-فروش/?lang=fa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\سیستم-خرید-و-فروش\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/سیستم-خرید-و-فروش/?lang=fa&s
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\سیستم-خرید-و-فروش\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/سیستم-خرید-و-فروش/feed/?lang=fa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\سیستم-خرید-و-فروش\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dadbeh.ca/?lang=fa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\index-3.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/?page_id=175&s
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\index-5.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\index-4.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/about-mehran/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\about-mehran\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/about-mehran/?lang=fa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\about-mehran\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/about-mehran/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\about-mehran\index-2.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/ask-anything/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\ask-anything\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/ask-anything/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\ask-anything\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/blog-resources/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\blog-resources\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/blog-resources/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\blog-resources\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/comments/feed/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dadbeh.ca/comments/feed/?lang=fa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\comments\feed\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dadbeh.ca/contact-us/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/contact-us/?lang=fa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\contact-us\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/contact-us/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\contact-us\index-2.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/featured-property-اکازیون/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\featured-property-اکازیون\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/featured-property-اکازیون/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\featured-property-اکازیون\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/feed/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dadbeh.ca/feed/?lang=fa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\feed\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dadbeh.ca/find-out-what-your-home-is-worth/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\find-out-what-your-home-is-worth\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/find-out-what-your-home-is-worth/?lang=fa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\find-out-what-your-home-is-worth\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/find-out-what-your-home-is-worth/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\find-out-what-your-home-is-worth\index-2.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/for-the-limited-time/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\for-the-limited-time\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/for-the-limited-time/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\for-the-limited-time\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/for-the-limited-time/feed/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\for-the-limited-time\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dadbeh.ca/front/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\front\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/front/feed/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\front\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dadbeh.ca/home-2/feed/?lang=fa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\home-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dadbeh.ca/home/feed/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\home\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dadbeh.ca/immigration-info-2/?lang=fa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\immigration-info-2\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/immigration-info-2/?lang=fa&lang=fa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\immigration-info-2\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/immigration/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\immigration\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/immigration/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\immigration\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/immigration/feed/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\immigration\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dadbeh.ca/limited-time-offer/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\limited-time-offer\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/limited-time-offer/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\limited-time-offer\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/links/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\links\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/links/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\links\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/newsletter/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\newsletter\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/newsletter/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\newsletter\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/property-search/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\property-search\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/property-search/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\property-search\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/property-search/feed/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\property-search\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dadbeh.ca/real-estate-map-2/?lang=fa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\real-estate-map-2\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/search/feed/rss2/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\search\feed\rss2\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dadbeh.ca/vital-information/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vital-information\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/vital-information/?s
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vital-information\index-2.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/vital-information/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\vital-information\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/welcome/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\welcome\index.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/welcome/?s=
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\welcome\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/contact-form-7/includes/css/styles-rtl.css?ver=4.6.1
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\contact-form-7\includes\css\styles-rtl.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\contact-form-7\includes\js\jquery.form.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fa.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\sitepress-multilingual-cms\res\flags\fa.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.7.29
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\sitepress-multilingual-cms\res\js\sitepress.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/script.js?ver=1
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\sitepress-multilingual-cms\templates\language-switchers\legacy-dropdown\script.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/style.css?ver=1
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\sitepress-multilingual-cms\templates\language-switchers\legacy-dropdown\style.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.37
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\wp-pro-quiz\css\wpProQuiz_front.min.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.4.19
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\wpml-cms-nav\res\css\cms-navigation-base.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.4.19
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\wpml-cms-nav\res\css\cms-navigation.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.4.19
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\wpml-cms-nav\res\css\navigation.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/plugins/wpml-cms-nav/res/img/cms-nav-dark-s.gif
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\plugins\wpml-cms-nav\res\img\cms-nav-dark-s.gif
+Content Type: image/gif
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/config-layerslider/LayerSlider/static/layerslider/css/layerslider.css?ver=6.4.0
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\config-layerslider\LayerSlider\static\layerslider\css\layerslider.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/config-layerslider/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\config-layerslider\LayerSlider\static\layerslider\js\greensock.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/config-layerslider/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.4.0
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\config-layerslider\LayerSlider\static\layerslider\js\layerslider.kreaturamedia.jquery.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/config-layerslider/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.4.0
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\config-layerslider\LayerSlider\static\layerslider\js\layerslider.transitions.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello-1.woff
+Content Type: font/woff
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/config-woocommerce/images/rtl-bullet_grey.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\config-woocommerce\images\rtl-bullet_grey.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/config-wpml/wpml-mod.css?ver=4.7.29
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\config-wpml\wpml-mod.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/css/base.css?ver=2
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\css\base.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/css/custom.css?ver=2
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\css\custom.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/css/grid.css?ver=2
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\css\grid.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/css/layout.css?ver=2
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\css\layout.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/css/print.css?ver=1
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\css\print.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/css/rtl.css?ver=1
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\css\rtl.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/css/shortcodes.css?ver=2
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\css\shortcodes.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/images/layout/loading.gif
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\images\layout\loading.gif
+Content Type: image/gif
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/images/layout/preload-dark-grey-big.gif
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\images\layout\preload-dark-grey-big.gif
+Content Type: image/gif
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/js/avia-compat.js?ver=2
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\js\avia-compat.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/js/avia.js?ver=3
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\js\avia.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=2
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\js\aviapopup\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=1
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\js\aviapopup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/js/mediaelement/skin-1/background.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\js\mediaelement\skin-1\background.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/js/mediaelement/skin-1/controls.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\js\mediaelement\skin-1\controls.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css?ver=1
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\js\mediaelement\skin-1\mediaelementplayer.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/js/mediaelement/skin-1/sep.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\js\mediaelement\skin-1\sep.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/themes/enfold/js/shortcodes.js?ver=3
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\themes\enfold\js\shortcodes.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/05/Dadbeh21.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\05\Dadbeh21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/05/iPhone-icon-36x36.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\05\iPhone-icon-36x36.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/05/iPhone-icon.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\05\iPhone-icon.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/05/Mehran-and-Nia.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\05\Mehran-and-Nia.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/05/Mehran-dadbeh.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\05\Mehran-dadbeh.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/05/phone-icon-36x36.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\05\phone-icon-36x36.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/05/phone-icon.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\05\phone-icon.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/05/Status-mail-read-icon-36x36.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\05\Status-mail-read-icon-36x36.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/05/Status-mail-read-icon.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\05\Status-mail-read-icon.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/06/favorite.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\06\favorite.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/06/info.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\06\info.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/06/map.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\06\map.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2013/07/mehran-regent-park-ad-e1373883638133.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2013\07\mehran-regent-park-ad-e1373883638133.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/2011-housing-market-forecast-300x225.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\2011-housing-market-forecast-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/airport-runway-1030x302.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\airport-runway-1030x302.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/airport-runway-1500x440.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\airport-runway-1500x440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/airport-runway-300x88.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\airport-runway-300x88.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/airport-runway-450x132.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\airport-runway-450x132.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/airport-runway-705x207.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\airport-runway-705x207.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/airport-runway.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\airport-runway.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/BG-slider-300x94.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\BG-slider-300x94.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/BG-slider-450x141.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\BG-slider-450x141.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/BG-slider-705x222.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\BG-slider-705x222.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/BG-slider.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\BG-slider.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/Canada-Flag-icon1-180x180.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\Canada-Flag-icon1-180x180.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/Coming-Soon-300x128.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\Coming-Soon-300x128.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/Coming-Soon-450x192.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\Coming-Soon-450x192.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/Coming-Soon.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\Coming-Soon.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/logo-300x172.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\logo-300x172.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/Mehran-Dadbeh-300x108.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\Mehran-Dadbeh-300x108.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/Mehran-Dadbeh-450x162.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\Mehran-Dadbeh-450x162.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/Mehran-Dadbeh-705x254.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\Mehran-Dadbeh-705x254.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/Mehran-Dadbeh.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\Mehran-Dadbeh.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/Mr-dadbeh2-243x300.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\Mr-dadbeh2-243x300.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/Mr-dadbeh2-450x554.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\Mr-dadbeh2-450x554.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/Mr-dadbeh2.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\Mr-dadbeh2.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/sidebar-300x199.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\sidebar-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/Welcome2-e1411859836804.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\Welcome2-e1411859836804.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/09/white10x10pixel.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\09\white10x10pixel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Amlake-shoma-e1413686754639.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Amlake-shoma-e1413686754639.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/arzyabi-bazar-e1424237435182.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\arzyabi-bazar-e1424237435182.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Arzyabi-e1413686749918.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Arzyabi-e1413686749918.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Home-Evaluation-1030x302.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Home-Evaluation-1030x302.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Home-Evaluation-1500x440.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Home-Evaluation-1500x440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Home-Evaluation-300x88.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Home-Evaluation-300x88.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Home-Evaluation-450x132.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Home-Evaluation-450x132.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Home-Evaluation-705x207.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Home-Evaluation-705x207.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Home-Evaluation.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Home-Evaluation.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Immigration-e1412301234486.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Immigration-e1412301234486.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/khoshamadid-e1413685133999.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\khoshamadid-e1413685133999.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Market-1030x302.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Market-1030x302.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Market-1500x440.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Market-1500x440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Market-300x88.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Market-300x88.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Market-450x132.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Market-450x132.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Market-705x207.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Market-705x207.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Market.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Market.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Mehran-Dadbeh-e1413685260546.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Mehran-Dadbeh-e1413685260546.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Mohajerat-e1413685883614.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Mohajerat-e1413685883614.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Vancouver-e1412302943545.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Vancouver-e1412302943545.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/vancouver-e1413686155616.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\vancouver-e1413686155616.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Vancouver_horizon-1030x275.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Vancouver_horizon-1030x275.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Vancouver_horizon-1500x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Vancouver_horizon-1500x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Vancouver_horizon-300x80.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Vancouver_horizon-300x80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Vancouver_horizon-450x120.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Vancouver_horizon-450x120.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Vancouver_horizon-705x188.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Vancouver_horizon-705x188.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/10/Vancouver_horizon.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\10\Vancouver_horizon.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/1-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\1-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/1.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-1-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-1-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-1.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-10-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-10-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-10.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-11-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-11-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-11.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-12-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-12-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-12.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-13-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-13-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-13.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-14-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-14-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-14.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-15-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-15-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-15.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-16-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-16-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-16.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-17-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-17-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-17.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-18-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-18-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-18.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-2-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-2-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-2.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-3-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-3-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-3.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-4-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-4-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-4.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-5-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-5-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-5.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-6-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-6-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-6.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-7-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-7-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-7.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-8-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-8-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-8.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-9-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-9-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/262069235-9.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\262069235-9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Nias-sale-120x120.jpeg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Nias-sale-120x120.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Nias-sale-180x180.jpeg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Nias-sale-180x180.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Nias-sale-300x300.jpeg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Nias-sale-300x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Nias-sale-36x36.jpeg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Nias-sale-36x36.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Nias-sale-450x450.jpeg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Nias-sale-450x450.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Nias-sale-705x705.jpeg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Nias-sale-705x705.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Nias-sale-80x80.jpeg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Nias-sale-80x80.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Nias-sale.jpeg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Nias-sale.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-1-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-1-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-1.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-1.mp4
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-1.mp4
+Content Type: video/mp4
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-10-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-10-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-10.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-11-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-11-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-11.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-12-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-12-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-12.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-13-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-13-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-13.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-14-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-14-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-14.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-15-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-15-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-15.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-16-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-16-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-16.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-17-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-17-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-17.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-18-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-18-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-18.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-19-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-19-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-19.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-2-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-2-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-2.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-20-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-20-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-20.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-20.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-3-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-3-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-3.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-4-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-4-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-4.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-5-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-5-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-5.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-6-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-6-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-6.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-7-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-7-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-7.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-8-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-8-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-8.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-9-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-9-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2014/11/Openhouse-2-9.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2014\11\Openhouse-2-9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-1-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-1-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-1.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-10-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-10-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-10.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-11-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-11-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-11.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-12-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-12-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-12.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-13-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-13-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-13.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-14-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-14-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-14.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-15-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-15-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-15.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-16-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-16-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-16.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-17-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-17-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-17.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-18-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-18-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-18.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-19-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-19-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-19.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-2-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-2-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-2.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-20-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-20-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-20.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-20.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-3-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-3-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-3.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-4-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-4-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-4.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-5-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-5-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-5.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-6-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-6-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-6.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-7-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-7-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-7.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-8-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-8-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-8.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-839-West-20th-Street-North-Vancouver-Hamilton-Heights-Video-Openhouse-Captivate-your-audience.mp4
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-839-West-20th-Street-North-Vancouver-Hamilton-Heights-Video-Openhouse-Captivate-your-audience.mp4
+Content Type: video/mp4
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-9-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-9-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/04/3-open-house-9.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\04\3-open-house-9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2015/06/Vancouver-and-s-e1434072275237.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2015\06\Vancouver-and-s-e1434072275237.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-0-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-0-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-0.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-1-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-1-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-1.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-10-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-10-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-10.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-11-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-11-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-11.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-12-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-12-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-12.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-13-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-13-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-13.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-14-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-14-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-14.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-15-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-15-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-15.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-16-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-16-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-16.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-17-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-17-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-17.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-18-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-18-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-18.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-19-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-19-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-19.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-2-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-2-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-2.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-3-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-3-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-3.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-4-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-4-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-4.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-5-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-5-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-5.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-6-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-6-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-6.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-7-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-7-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-7.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-8-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-8-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-8.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-9-495x400.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-9-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/2017/11/262239548-9.jpg
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\2017\11\262239548-9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/dynamic_avia/enfold.css?ver=592c9a29e7507
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\dynamic_avia\enfold.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/dynamic_avia/enfold_fa.css?ver=5557e3bce0b50
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\dynamic_avia\enfold_fa.css
+Content Type: text/css
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/flags/pict_country_canada.gif
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\flags\pict_country_canada.gif
+Content Type: image/gif
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/wpcf7_captcha/1108487997.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\wpcf7_captcha\1108487997.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/wpcf7_captcha/1428749853.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\wpcf7_captcha\1428749853.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/wpcf7_captcha/1503053295.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\wpcf7_captcha\1503053295.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/wpcf7_captcha/1893839708.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\wpcf7_captcha\1893839708.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/wpcf7_captcha/1900402346.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\wpcf7_captcha\1900402346.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/wpcf7_captcha/2312881547.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\wpcf7_captcha\2312881547.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/wpcf7_captcha/3016595317.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\wpcf7_captcha\3016595317.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-content/uploads/wpcf7_captcha/636763839.png
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-content\uploads\wpcf7_captcha\636763839.png
+Content Type: image/png
+
+Uri: https://www.dadbeh.ca/wp-includes/js/comment-reply.min.js?ver=4.7.29
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-includes\js\jquery\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.7.29
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-includes\js\mediaelement\wp-mediaelement.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-includes/js/wp-embed.min.js?ver=4.7.29
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.dadbeh.ca/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2F%25d8%25b3%25db%258c%25d8%25b3%25d8%25aa%25d9%2585-%25d8%25ae%25d8%25b1%25db%258c%25d8%25af-%25d9%2588-%25d9%2581%25d8%25b1%25d9%2588%25d8%25b4%2F%3Flang%3Dfa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-6.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2F%25d8%25b3%25db%258c%25d8%25b3%25d8%25aa%25d9%2585-%25d8%25ae%25d8%25b1%25db%258c%25d8%25af-%25d9%2588-%25d9%2581%25d8%25b1%25d9%2588%25d8%25b4%2F%3Flang%3Dfa&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-7.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2F%3Flang%3Dfa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-2.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2F%3Flang%3Dfa&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-3.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2Fabout-mehran%2F%3Flang%3Dfa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-8.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2Fabout-mehran%2F%3Flang%3Dfa&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-9.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2Fcontact-us%2F%3Flang%3Dfa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-14.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2Fcontact-us%2F%3Flang%3Dfa&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-15.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2Ffind-out-what-your-home-is-worth%2F%3Flang%3Dfa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-12.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2Ffind-out-what-your-home-is-worth%2F%3Flang%3Dfa&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-13.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2Fimmigration-info-2%2F%3Flang%3Dfa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-4.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2Fimmigration-info-2%2F%3Flang%3Dfa&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-5.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2Freal-estate-map-2%2F%3Flang%3Dfa
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-10.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.dadbeh.ca%2Freal-estate-map-2%2F%3Flang%3Dfa&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-11.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/?lang=fa/
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fabout-mehran%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fabout-mehran%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fask-anything%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fask-anything%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fcontact-us%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fcontact-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Ffeatured-property-%25d8%25a7%25da%25a9%25d8%25a7%25d8%25b2%25db%258c%25d9%2588%25d9%2586%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Ffeatured-property-%25d8%25a7%25da%25a9%25d8%25a7%25d8%25b2%25db%258c%25d9%2588%25d9%2586%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Ffind-out-what-your-home-is-worth%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Ffind-out-what-your-home-is-worth%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Ffor-the-limited-time%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Ffor-the-limited-time%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Ffront%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Ffront%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fimmigration%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fimmigration%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Flimited-time-offer%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Flimited-time-offer%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Flinks%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Flinks%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fnewsletter%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fnewsletter%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fproperty-search%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fproperty-search%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fvital-information%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fvital-information%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fwelcome%2F
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://www.dadbeh.ca/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.dadbeh.ca%2Fwelcome%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://www.dadbeh.ca/wp-login.php
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\wp-login.php.html
+Content Type: text/html
+
+Uri: https://www.dadbeh.ca/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.dadbeh.ca\xmlrpc.php
+Content Type: text/xml
+
